@@ -1,0 +1,22 @@
+.container{
+    padding: 10px;
+    border: 1px solid lightgray;
+    cursor: pointer;
+}
+
+.nameContainer{
+    min-height: 50px;
+}
+
+.imageContainer{
+    text-align: center;
+}
+
+.price{
+    display: inline-block;
+}
+
+.badge{
+    display: inline-block;
+    margin-left: 20px;
+}

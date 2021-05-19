@@ -1,0 +1,18 @@
+.container{
+    padding: 10px;
+    border: 1px solid lightgray;
+}
+
+.nameContainer{
+    min-height: 50px;
+}
+
+.imageContainer{
+    text-align: center;
+}
+
+.backContainer{
+    text-align: center;
+    width: 100%;
+    margin: 20px;
+}

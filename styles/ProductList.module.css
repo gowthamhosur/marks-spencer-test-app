@@ -1,0 +1,12 @@
+.header {
+ text-align: center;
+}
+
+.title{
+    display: inline-block;
+}
+
+.user{
+    display: inline-block;
+    padding: 20px;
+}

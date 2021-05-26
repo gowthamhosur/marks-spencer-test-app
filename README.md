@@ -26,8 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Pending Tasks
 
-1. Jest and testing library based unit tests to test functionality is not yet added
-2. Docker compose to combine web and app images is not done 
+1. Docker compose to combine web and app images is not done 
 
 ## Assumptions
 

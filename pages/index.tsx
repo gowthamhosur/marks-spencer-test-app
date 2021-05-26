@@ -3,8 +3,8 @@ import type { Product, User, Offer } from '../lib/types';
 import { useEffect, useState } from 'react';
 import { InferGetStaticPropsType } from 'next';
 import { gql, useQuery } from '@apollo/client';
-import client from "../lib/apollo-client";
 import styles from '../styles/ProductList.module.css';
+import client from "../lib/apollo-client";
 import ProductListItem from '../components/ProductListItem'
 import { Container, Row, Col } from 'react-grid-system';
 

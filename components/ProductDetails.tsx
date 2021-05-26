@@ -15,7 +15,7 @@ const ProductDetails = ({ product }: ComponentProps) => {
             <Row>
                 <Col sm={12} md={6}>
                     <div className={styles.imageContainer}>
-                        <Image src={` https://asset1.cxnmarksandspencer.com/is/image/mands/${image_key}`} width="600" height="800" />
+                        <Image alt="Product Image" src={` https://asset1.cxnmarksandspencer.com/is/image/mands/${image_key}`} width="600" height="800" />
                     </div>
                 </Col>
                 <Col sm={12} md={6}>
